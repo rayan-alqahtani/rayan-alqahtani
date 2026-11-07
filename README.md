@@ -6,9 +6,9 @@
 
 **Computer Engineering graduate building practical AI systems — from data to models to working applications.**
 
-<a href="https://github.com/rayan-alqahtani/saer"><img src="https://img.shields.io/badge/EXPLORE-SAER_PROJECT-26C6E8?style=for-the-badge&labelColor=0B1C35" alt="Explore SAER project"/></a>
-<a href="https://saer-rmsavg637.pages.dev/"><img src="https://img.shields.io/badge/VIEW-LIVE_DEMO-1C8BB7?style=for-the-badge&labelColor=0B1C35" alt="View live SAER demo"/></a>
-<a href="mailto:rayan18q@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-425D8C?style=for-the-badge&labelColor=0B1C35" alt="Email Rayan"/></a>
+<a href="https://github.com/rayan-alqahtani/saer"><img src="https://img.shields.io/badge/SAER-REPOSITORY-26C6E8?style=for-the-badge&labelColor=0B1C35&logo=github&logoColor=white" alt="Open SAER repository"/></a>
+<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://img.shields.io/badge/IDS-REPOSITORY-2E80BD?style=for-the-badge&labelColor=0B1C35&logo=github&logoColor=white" alt="Open IDS repository"/></a>
+<a href="mailto:rayan18q@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-425D8C?style=for-the-badge&labelColor=0B1C35&logo=gmail&logoColor=white" alt="Contact Rayan by email"/></a>
 
 <br/><br/>
 
@@ -62,21 +62,48 @@ A fully Arabic platform exploring used-car price estimation from **vehicle speci
 
 <br/>
 
-### 📊 Machine Learning for Network Traffic Classification
+### 🛡️ AI-Enhanced Intrusion Detection System with Risk Assessment
 
-**Computer Engineering graduation team project · Supervised machine learning**
+**Computer Engineering graduation team project · Applied machine learning · Model evaluation · Flask application**
 
-A project investigating traffic classification from structured network-flow data, with an interface for exploring model outputs.
+A complete academic project connecting **network-flow data classification**, **risk assessment**, and an interactive dashboard. The team used **Random Forest** for multiclass traffic classification, integrated **Snort** alerts, and presented the outputs in a **Flask** interface.
 
-**What I contributed:** Trained the machine-learning model used for classification.
+<table>
+<tr>
+<td align="center" width="33%"><strong>2,830,743</strong><br/><sub>Source dataset records</sub></td>
+<td align="center" width="33%"><strong>78</strong><br/><sub>Input features</sub></td>
+<td align="center" width="34%"><strong>0.97</strong><br/><sub>Historical test macro-F1</sub></td>
+</tr>
+</table>
 
-- Worked with the **CICIDS2017** dataset, containing approximately **2.83 million records**.
-- Applied a **Random Forest** classification approach.
-- Examined class-level results and limitations, including performance on less-represented classes.
+<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment">
+<img src="https://raw.githubusercontent.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/main/docs/assets/presentation-demo.png" alt="IDS graduation project demonstration, showing the monitoring interface" width="100%"/>
+</a>
+<sub>Original project demonstration from the team's final presentation — click the image to open the repository.</sub>
 
-<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-Repository-15233B?style=flat-square&logo=github&logoColor=white" alt="Explore university project"/></a>
+**What I contributed**
+- **Trained the machine-learning classification model**, applying supervised learning to structured network-flow data.
+- Worked with the project’s training and evaluation workflow to understand class-level performance.
+- Participated in a team project that connected model outputs to a practical risk-monitoring interface.
 
-<sub>This is presented as evidence of ML training and evaluation work, not as a claim of independently building the entire team system.</sub>
+**The engineering system:** **Python · scikit-learn · Random Forest · CICIDS2017 · Snort · Flask**. The documented historical notebook uses a stratified 80/20 split with **566,149 test samples** grouped into six classes.
+
+<table>
+<tr>
+<td width="50%" align="center"><strong>Model evaluation</strong><br/><sub>Historical confusion matrix</sub><br/>
+<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/blob/main/docs/model-card.md"><img src="https://raw.githubusercontent.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/main/docs/assets/confusion-matrix.png" alt="Historical IDS classification confusion matrix" width="100%"/></a></td>
+<td width="50%" align="center"><strong>System overview</strong><br/><sub>How data reaches predictions</sub><br/>
+<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://raw.githubusercontent.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/main/docs/assets/overview.svg" alt="IDS project architecture overview" width="100%"/></a></td>
+</tr>
+</table>
+
+<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-15233B?style=flat-square&logo=github&logoColor=white" alt="IDS project source code"/></a>
+<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/blob/main/docs/model-card.md"><img src="https://img.shields.io/badge/MODEL_RESULTS-Evaluation_Record-536FA8?style=flat-square" alt="IDS model card"/></a>
+<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/blob/main/docs/reports/graduation-report.pdf"><img src="https://img.shields.io/badge/GRADUATION-Project_Report-277D93?style=flat-square" alt="Graduation project report"/></a>
+
+<sub>**Evaluation note:** The 0.97 macro-F1 refers to the historical **six-class notebook experiment**, not an external blind test or an independently retested deployment. The runtime bundle documents **five classes**; these metrics must not be applied to that bundle. The original project was built by a team, and the ML model training was my own contribution.</sub>
+
+<br/>
 
 ---
 
