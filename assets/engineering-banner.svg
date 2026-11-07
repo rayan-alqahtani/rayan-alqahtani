@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="400" viewBox="0 0 1400 400" role="img" aria-labelledby="title desc">
+<title id="title">Rayan Saeed Al-Qahtani — AI and Machine Learning Engineer</title>
+<desc id="desc">Navy engineering blueprint banner with cyan circuit graphics and a clean typographic introduction.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071326"/><stop offset=".55" stop-color="#0A1D39"/><stop offset="1" stop-color="#102950"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39D8FF"/><stop offset="1" stop-color="#6B89FF"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#25B8E8" stop-opacity=".18"/><stop offset="1" stop-color="#25B8E8" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#86BCED" stroke-width=".6" opacity=".13"/></pattern>
+</defs>
+<rect width="1400" height="400" rx="22" fill="url(#bg)"/><rect width="1400" height="400" rx="22" fill="url(#grid)"/>
+<ellipse cx="1180" cy="220" rx="360" ry="280" fill="url(#glow)"/>
+<path d="M48 44V29H63M1338 29h15v15M48 352v17h15M1338 369h15v-17" stroke="#51CFF8" opacity=".54" stroke-width="2" fill="none"/>
+<rect x="84" y="75" width="235" height="36" rx="18" fill="#163757" stroke="#2B8DBA" stroke-width="1"/>
+<circle cx="105" cy="93" r="5" fill="#39D8FF"/>
+<text x="122" y="99" fill="#B8E7F7" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.7">ENGINEERING PROFILE</text>
+<text x="83" y="208" fill="#F2FAFF" font-size="85" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="-2">RAYAN</text>
+<text x="87" y="259" fill="#A7C7E7" font-size="32" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="4">SAEED AL-QAHTANI</text>
+<path d="M87 282h487" stroke="url(#accent)" stroke-width="3"/>
+<text x="87" y="321" fill="#C9DBEB" font-size="23" font-family="Arial, Helvetica, sans-serif" letter-spacing=".5">AI &amp; Machine Learning Engineer</text>
+<text x="88" y="351" fill="#75CFEF" font-size="16" font-family="Arial, Helvetica, sans-serif" letter-spacing="2.1">COMPUTER VISION  ·  APPLIED AI  ·  PYTHON</text>
+<g transform="translate(855 58)">
+ <circle cx="224" cy="145" r="139" fill="none" stroke="#3A92CE" stroke-width="1.4" opacity=".23"/>
+ <circle cx="224" cy="145" r="102" fill="none" stroke="#44BDF2" stroke-width="1.7" stroke-dasharray="6 12" opacity=".4"/>
+ <circle cx="224" cy="145" r="66" fill="#103960" stroke="#5BCFFF" stroke-width="1.8"/>
+ <path d="M224 79v-28M224 211v28M158 145h-32M290 145h30M177 98l-22-22M271 192l22 22M271 98l22-22M177 192l-22 22" stroke="#5BCFFF" stroke-width="2" opacity=".75"/>
+ <path d="M197 162l27-46 27 46h-54m14-22h26" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+ <g fill="none" stroke="#5BBAF0" stroke-width="2.1" opacity=".74">
+ <path d="M224 51l-72-22-66 44M320 145l52-56 55 18M293 214l61 51 58-15M155 214l-80 39-43-28M155 76L90 132l-48-28"/>
+ </g>
+ <g fill="#72D8FE"><circle cx="224" cy="51" r="7"/><circle cx="152" cy="29" r="6"/><circle cx="86" cy="73" r="7"/><circle cx="372" cy="89" r="6"/><circle cx="427" cy="107" r="7"/><circle cx="354" cy="265" r="7"/><circle cx="412" cy="250" r="6"/><circle cx="75" cy="253" r="6"/><circle cx="32" cy="225" r="7"/><circle cx="42" cy="104" r="6"/><circle cx="90" cy="132" r="5"/></g>
+ <g fill="#7AB5E4" font-size="14" font-family="monospace" letter-spacing="1.5"><text x="24" y="189">DATA</text><text x="343" y="53">MODELS</text><text x="348" y="301">SYSTEMS</text></g>
+</g>
+</svg>
