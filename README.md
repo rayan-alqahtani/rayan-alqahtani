@@ -149,7 +149,7 @@ Document what works — and what does not
 
 I am interested in opportunities where I can contribute to **AI/ML engineering**, develop stronger **computer vision systems**, and keep learning from real engineering challenges.
 
-**[Email me](mailto:rayan18q@gmail.com)** &nbsp;·&nbsp; **[Explore my GitHub](https://github.com/rayan-alqahtani)** &nbsp;·&nbsp; **[See SAER live](https://saer-rmsavg637.pages.dev/)**
+**[Email me](mailto:rayan18q@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/rayan-qh/)** &nbsp;·&nbsp; **[Explore my GitHub](https://github.com/rayan-alqahtani)** &nbsp;·&nbsp; **[See SAER live](https://saer-rmsavg637.pages.dev/)**
 
 <div align="center">
 
