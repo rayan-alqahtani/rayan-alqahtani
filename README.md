@@ -6,8 +6,8 @@
 
 **Computer Engineering graduate building practical AI systems — from data to models to working applications.**
 
-<a href="https://github.com/rayan-alqahtani/saer"><img src="https://img.shields.io/badge/SAER-REPOSITORY-26C6E8?style=for-the-badge&labelColor=0B1C35&logo=github&logoColor=white" alt="Open SAER repository"/></a>
-<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://img.shields.io/badge/IDS-REPOSITORY-2E80BD?style=for-the-badge&labelColor=0B1C35&logo=github&logoColor=white" alt="Open IDS repository"/></a>
+<a href="https://github.com/rayan-qh/saer"><img src="https://img.shields.io/badge/SAER-REPOSITORY-26C6E8?style=for-the-badge&labelColor=0B1C35&logo=github&logoColor=white" alt="Open SAER repository"/></a>
+<a href="https://github.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://img.shields.io/badge/IDS-REPOSITORY-2E80BD?style=for-the-badge&labelColor=0B1C35&logo=github&logoColor=white" alt="Open IDS repository"/></a>
 <a href="mailto:rayan18q@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-425D8C?style=for-the-badge&labelColor=0B1C35&logo=gmail&logoColor=white" alt="Contact Rayan by email"/></a>
 
 <br/><br/>
@@ -45,7 +45,7 @@ A fully Arabic platform exploring used-car price estimation from **vehicle speci
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/rayan-alqahtani/saer/main/docs/assets/home-screen.jpg" alt="SAER Arabic user interface" width="100%"/>
+<img src="https://raw.githubusercontent.com/rayan-qh/saer/main/docs/assets/home-screen.jpg" alt="SAER Arabic user interface" width="100%"/>
 
 **What I contributed**
 - Collected and prepared vehicle-listing data for model development.
@@ -54,9 +54,9 @@ A fully Arabic platform exploring used-car price estimation from **vehicle speci
 
 **The engineering system:** A team-built solution combining **Python / scikit-learn**, an **Arabic React + TypeScript interface**, and model services delivered through **FastAPI**.
 
-<a href="https://github.com/rayan-alqahtani/saer"><img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-15233B?style=flat-square&logo=github&logoColor=white" alt="SAER source code"/></a>
+<a href="https://github.com/rayan-qh/saer"><img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-15233B?style=flat-square&logo=github&logoColor=white" alt="SAER source code"/></a>
 <a href="https://saer-rmsavg637.pages.dev/"><img src="https://img.shields.io/badge/TRY_THE_PLATFORM-Live_Demo-16A8C9?style=flat-square" alt="SAER live demo"/></a>
-<a href="https://github.com/rayan-alqahtani/saer/blob/main/models/identity_current.json"><img src="https://img.shields.io/badge/MODEL_RESULTS-Evaluation_Record-536FA8?style=flat-square" alt="SAER model evaluation record"/></a>
+<a href="https://github.com/rayan-qh/saer/blob/main/models/identity_current.json"><img src="https://img.shields.io/badge/MODEL_RESULTS-Evaluation_Record-536FA8?style=flat-square" alt="SAER model evaluation record"/></a>
 
 <sub>**Evaluation note:** 94.58% is from a historical test split used during development, not an independent blind external evaluation. Results are not guaranteed on new vehicles or market data. The online model service may need time to start.</sub>
 
@@ -76,8 +76,8 @@ A complete academic project connecting **network-flow data classification**, **r
 </tr>
 </table>
 
-<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment">
-<img src="https://raw.githubusercontent.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/main/docs/assets/presentation-demo.png" alt="IDS graduation project demonstration, showing the monitoring interface" width="100%"/>
+<a href="https://github.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment">
+<img src="https://raw.githubusercontent.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/main/docs/assets/presentation-demo.png" alt="IDS graduation project demonstration, showing the monitoring interface" width="100%"/>
 </a>
 <sub>Original project demonstration from the team's final presentation — click the image to open the repository.</sub>
 
@@ -91,15 +91,15 @@ A complete academic project connecting **network-flow data classification**, **r
 <table>
 <tr>
 <td width="50%" align="center"><strong>Model evaluation</strong><br/><sub>Historical confusion matrix</sub><br/>
-<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/blob/main/docs/model-card.md"><img src="https://raw.githubusercontent.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/main/docs/assets/confusion-matrix.png" alt="Historical IDS classification confusion matrix" width="100%"/></a></td>
+<a href="https://github.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/blob/main/docs/model-card.md"><img src="https://raw.githubusercontent.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/main/docs/assets/confusion-matrix.png" alt="Historical IDS classification confusion matrix" width="100%"/></a></td>
 <td width="50%" align="center"><strong>System overview</strong><br/><sub>How data reaches predictions</sub><br/>
-<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://raw.githubusercontent.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/main/docs/assets/overview.svg" alt="IDS project architecture overview" width="100%"/></a></td>
+<a href="https://github.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://raw.githubusercontent.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/main/docs/assets/overview.svg" alt="IDS project architecture overview" width="100%"/></a></td>
 </tr>
 </table>
 
-<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-15233B?style=flat-square&logo=github&logoColor=white" alt="IDS project source code"/></a>
-<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/blob/main/docs/model-card.md"><img src="https://img.shields.io/badge/MODEL_RESULTS-Evaluation_Record-536FA8?style=flat-square" alt="IDS model card"/></a>
-<a href="https://github.com/rayan-alqahtani/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/blob/main/docs/reports/graduation-report.pdf"><img src="https://img.shields.io/badge/GRADUATION-Project_Report-277D93?style=flat-square" alt="Graduation project report"/></a>
+<a href="https://github.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment"><img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-15233B?style=flat-square&logo=github&logoColor=white" alt="IDS project source code"/></a>
+<a href="https://github.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/blob/main/docs/model-card.md"><img src="https://img.shields.io/badge/MODEL_RESULTS-Evaluation_Record-536FA8?style=flat-square" alt="IDS model card"/></a>
+<a href="https://github.com/rayan-qh/AI-Enhanced-Intrusion-Detection-System-with-Risk-Assessment/blob/main/docs/reports/graduation-report.pdf"><img src="https://img.shields.io/badge/GRADUATION-Project_Report-277D93?style=flat-square" alt="Graduation project report"/></a>
 
 <sub>**Evaluation note:** The 0.97 macro-F1 refers to the historical **six-class notebook experiment**, not an external blind test or an independently retested deployment. The runtime bundle documents **five classes**; these metrics must not be applied to that bundle. The original project was built by a team, and the ML model training was my own contribution.</sub>
 
@@ -149,7 +149,7 @@ Document what works — and what does not
 
 I am interested in opportunities where I can contribute to **AI/ML engineering**, develop stronger **computer vision systems**, and keep learning from real engineering challenges.
 
-**[Email me](mailto:rayan18q@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/rayan-qh/)** &nbsp;·&nbsp; **[Explore my GitHub](https://github.com/rayan-alqahtani)** &nbsp;·&nbsp; **[See SAER live](https://saer-rmsavg637.pages.dev/)**
+**[Email me](mailto:rayan18q@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/rayan-qh/)** &nbsp;·&nbsp; **[Explore my GitHub](https://github.com/rayan-qh)** &nbsp;·&nbsp; **[See SAER live](https://saer-rmsavg637.pages.dev/)**
 
 <div align="center">
 
