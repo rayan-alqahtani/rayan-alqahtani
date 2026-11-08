@@ -31,7 +31,7 @@ I completed a **200-hour AI Engineering Bootcamp (AIEP)** with **Olo Academy**, 
 
 ## 02 / Featured engineering work
 
-### 🚘 SAER | سعّر — From vehicle images to useful predictions
+### 🚘 SAER — AI-Powered Car Pricing & Recognition | سعّر
 
 **Academic team project · Machine learning · Computer vision · Web application**
 
@@ -62,9 +62,10 @@ A fully Arabic platform exploring used-car price estimation from **vehicle speci
 
 <br/>
 
-### 🛡️ AI-Enhanced Intrusion Detection System with Risk Assessment
+### 🛡️ AI-Powered Network Attack Classification — IDS
 
-**Computer Engineering graduation team project · Applied machine learning · Model evaluation · Flask application**
+**Intrusion Detection System (IDS) & Risk Assessment**  
+Computer Engineering graduation team project · Applied machine learning · Model evaluation · Flask application
 
 A complete academic project connecting **network-flow data classification**, **risk assessment**, and an interactive dashboard. The team used **Random Forest** for multiclass traffic classification, integrated **Snort** alerts, and presented the outputs in a **Flask** interface.
 
